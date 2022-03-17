@@ -9,7 +9,7 @@ function Button({ label, version, type, isDisabled }) {
 }
 
 Button.defaultProps = {
-  label: "Submit",
+  label: "Send",
   version: "primary",
   type: "submit",
   isDisabled: false,
