@@ -32,3 +32,5 @@ export default FeedBackData
 // 3XX:Redirect - further action must be taken/redirect
 // 4XX:Client Error - Request does not have what it needs
 // 5XX:Server Error - Server failed to fulfill a valid request
+// npm i json-server
+// npm i concurrently
