@@ -8,8 +8,6 @@ import AboutLink from "./components/AboutLink"
 import { FeedbackProvider } from "./context/FeedbackContext"
 
 function App() {
-  // const [feedback, setFeedBack] = useState(FeedBackData)
-
   return (
     <FeedbackProvider>
       <Router>
