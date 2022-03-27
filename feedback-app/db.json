@@ -1,24 +1,9 @@
 {
   "feedback": [
     {
-      "id": 1,
-      "rating": 10,
-      "text": "Feedback item 1 coming from the backend"
-    },
-    {
-      "id": 2,
-      "rating": 8,
-      "text": "Feedback item 2 coming from the backend"
-    },
-    {
-      "id": 3,
-      "rating": 6,
-      "text": "Feedback item 3 coming from the backend"
-    },
-    {
-      "text": "Hello world ",
-      "rating": 9,
-      "id": 4
+      "text": "test one from server",
+      "rating": 3,
+      "id": 1
     }
   ]
 }
